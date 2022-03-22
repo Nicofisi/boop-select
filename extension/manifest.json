@@ -3,6 +3,10 @@
   "description": "Makes you be able to select text on Boop",
   "version": "1.0",
   "manifest_version": 3,
+  "icons": {
+    "128": "icons/icon128.png",
+    "48": "icons/icon48.png"
+  },
   "content_scripts": [
     {
       "matches": [
