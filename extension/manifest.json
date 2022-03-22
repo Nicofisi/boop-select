@@ -1,0 +1,16 @@
+{
+  "name": "Zaznaczanie na Boop",
+  "description": "Makes you be able to select text on Boop",
+  "version": "1.0",
+  "manifest_version": 3,
+  "content_scripts": [
+    {
+      "matches": [
+        "https://boop.pl/*"
+      ],
+      "css": [
+        "boop.css"
+      ]
+    }
+  ]
+}
