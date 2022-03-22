@@ -1,6 +1,6 @@
 {
   "name": "Zaznaczanie na Boop",
-  "description": "Makes you be able to select text on Boop",
+  "description": "Przydałaby ci się możliwość zaznaczania tekstu na polskim serwisie Boop? Niniejszy plugin nadchodzi z pomocą!",
   "version": "1.0",
   "manifest_version": 3,
   "icons": {
